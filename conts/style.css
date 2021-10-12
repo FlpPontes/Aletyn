@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url(Ubuntu-Regular.ttf) format(truetype);
+}
+@font-face {
+    font-family: UbuntuS;
+    src: url(Ubuntu-Medium.ttf) format(truetype);
+}  /* Fontes */
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    color: #030333;
+}
+p{
+    font-size: 20px;
+}
+
+/* Navegação - Começo*/
+nav ul{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    margin-bottom: 27px;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    background-color: black;
+    padding: 10px 7px 10px 7px;
+    transition: 0.5s;
+}
+nav a{
+    text-decoration: none;
+    color: #d0d4d6;
+    font-size: 21px;
+    background-color: black;
+    font-family: 'UbuntuS', sans-serif;
+    transition: 0.5s;
+}
+nav ul li a:hover{
+    color: #d1c408;
+    border-bottom: 1px solid #d1c408;
+}
+/* Navegação -- Fim */

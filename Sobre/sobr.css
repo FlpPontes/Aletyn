@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+a{
+    color: #c2b30c;
+}
+
+p{
+    margin-bottom: 13px;
+    text-align: center;
+}
+
+h2{
+    margin: 28px 0 5px 0;
+    text-align: center;
+    font-size: 24px;
+}
+
+img{
+     display: block;
+     margin: 100px 0 5px 5px;
+ }
+
+#crin{
+    margin-top: 10000px;
+}
