@@ -1,23 +1,27 @@
 h1{
     text-align: left;
     font-size: 29px;
-    margin-top: 45px;
+    margin-top: 30px;
     margin-left: 4px;
 }
 p{
     text-align: left;
-    margin: 10px 5px 0 5px;
+    margin: 10px 4px 0 3px;
     
 }
 
 #logo-img{
     text-align: center;
-    margin: 10px auto 10px auto;
+    margin: 20px auto 15px auto;
 }
 #logo{
     text-align: center;
-    width: auto;
+    
 }
 #coracoes{
     text-align: center;
+    margin: 20px 0 15px 0;
+}
+#final{
+    margin-bottom: 37px;
 }
