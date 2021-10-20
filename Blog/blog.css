@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+}
+
+img{
+    width: 310px;
+    height: auto;
+    border-radius: 8px;
+}
+p{
+    margin-top: 6px;
+    font-size: 22px;
+    color: #c2b30c;
+}
+span{
+    display: inline-block;
+    text-align: center;
+    margin: 30px 20px 25px 20px;
+}
