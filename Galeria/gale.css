@@ -1,0 +1,18 @@
+div{
+    text-align: center;
+}
+
+img{
+    width: 310px;
+    height: auto;
+}
+span{
+    display: inline-block;
+    text-align: center;
+    margin: 30px 20px 25px 20px;
+}
+#final{
+    margin: 40px 0 25px 8px;
+    font-size: 15px;
+    color: gray;
+}
